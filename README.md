@@ -2,7 +2,7 @@
 NextJS를 이용한 간단한 뉴스 페이지 만들기!!
 
 ## 사용한 기술
->> NextJS, TypeScript, Module CSS, Vercel
+> NextJS, TypeScript, Module CSS, Vercel
 
 ## 프레임워크
 NextJS

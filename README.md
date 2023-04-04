@@ -1,6 +1,6 @@
 # NextJS News
-NextJS를 이용한 간단한 뉴스 페이지 만들기!!
-[강의 영상](https://www.youtube.com/watch?v=e1EIwuO-Dlo)
+NextJS를 이용한 간단한 뉴스 페이지 만들기!!<br />
+[강의 영상](https://www.youtube.com/watch?v=e1EIwuO-Dlo)<br />
 [Breaking News 배포사이트](https://nextjs-btsbringmehere.vercel.app/)
 
 ## 사용한 기술
